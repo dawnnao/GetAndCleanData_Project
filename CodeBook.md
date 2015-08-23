@@ -2,11 +2,7 @@
 * All of the explanation come from the original files in the data.zip
 
 ## Use of data
-I just pick those data set below:
-.\UCI HAR Dataset\test\X_test.txt
-.\UCI HAR Dataset\test\y_test.txt
-.\UCI HAR Dataset\train\X_train.txt
-.\UCI HAR Dataset\train\y_train.txt
+* I just pick those data set below:	.\UCI HAR Dataset\test\X_test.txt	.\UCI HAR Dataset\test\y_test.txt	.\UCI HAR Dataset\train\X_train.txt	.\UCI HAR Dataset\train\y_train.txt
 
 ## About rows
 * The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist.
