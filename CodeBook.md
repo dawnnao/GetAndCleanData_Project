@@ -2,7 +2,7 @@
 * All of the explanation come from the original files in the data.zip
 
 ## Use of data
-* I just pick those data set below:
+* I just pick those data sets below:
 * .\UCI HAR Dataset\test\X_test.txt
 * .\UCI HAR Dataset\test\y_test.txt
 * .\UCI HAR Dataset\train\X_train.txt
